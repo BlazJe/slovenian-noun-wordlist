@@ -12,7 +12,6 @@ Only entries matching all of the following were included:
 
 - **Part of speech:** noun
 - **Type:** common (proper nouns and named entities excluded)
-- **Pronunciation:** `Slovene G2P` or `Slovene G2P with minor deviation` (foreign loanwords marked as `Ambiguous G2P` excluded)
 
 ## Source
 
@@ -25,3 +24,4 @@ Extracted from **Sloleks 3.1** — the Slovenian morphological lexicon developed
 ```python
 with open("besede.txt", encoding="utf-8") as f:
     words = [line.strip() for line in f if line.strip()]
+```
