@@ -5,7 +5,6 @@ A plain-text list of **43,501 Slovenian common nouns** (one per line), extracted
 ## Contents
 
 - `besede.txt` — one lemma (dictionary form) per line, UTF-8 encoded
-- `extract_besede.py` — the extraction script
 
 ## Filtering criteria
 
