@@ -17,7 +17,7 @@ Only entries matching all of the following were included:
 
 Extracted from **Sloleks 3.1** — the Slovenian morphological lexicon developed by the [Centre for Language Resources and Technologies (CJVT)](https://www.cjvt.si) at the University of Ljubljana.
 
-> Sloleks is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). This derived wordlist is shared under the same license.
+> Sloleks is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 ## Usage
 
